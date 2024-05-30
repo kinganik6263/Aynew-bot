@@ -6,7 +6,7 @@ module.exports.config = {
   name: "bot",
   version: "0.0.2",
   hasPermssion: 0,
-  usePrefix: false,
+  usePrefix: true,
   credits: "Nayan",
   description: "talk with bot",
   commandCategory: "user",

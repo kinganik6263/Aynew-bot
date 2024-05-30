@@ -1,11 +1,11 @@
 module.exports.config = {
   'name': "info",
-  prefix: true,
+  usePrefix: true,
   'version': '1.0.1',
-  'permssion': 0x0,
+  'hasPermssion': 0x0,
   'credits': "Joshua Sy",
   'description': "Admin and Bot info.",
-  'category': "...",
+  'commandCategory': "...",
   'cooldowns': 0x1,
   'dependencies': {
     'request': '',

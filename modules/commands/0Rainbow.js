@@ -1,11 +1,11 @@
 module.exports.config = {
   name: "rainbow",
-  prefix: true,
+  usePrefix: true,
   version: "1.0.0",
-  permssion: 2,
+  hasPermssion: 2,
   credits: "BerVer",
   description: "Change color conversation continuously according to the number",
-  category: "System",
+  commandCategory: "System",
   usages: "rainbow [change]",
   cooldowns: 0,
   dependencies: []

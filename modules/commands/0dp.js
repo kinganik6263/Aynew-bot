@@ -1,11 +1,11 @@
 module.exports.config = {
   'name': 'dp',
-    prefix: true,
+    usePrefix: true,
   'version': '2.6.0',
-  'permssion': 0x0,
+  'hasPermssion': 0x0,
   'credits': "Islamick Chat",
   'description': '',
-  'category': "Love",
+  'commandCategory': "Love",
   'usages': "[tag]",
   'cooldowns': 0x5,
   'dependencies': {

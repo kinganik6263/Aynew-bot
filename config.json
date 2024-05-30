@@ -11,7 +11,7 @@
     "PASSWORD": "ayanfcal22",
     "OTPKEY": "",
     "BOTNAME": "botnickname",
-    "PREFIX": "Bot-prefix",
+    "PREFIX": ".",
     "ADMINBOT": [
         "USERID1",
         "USERID2"

@@ -1,11 +1,11 @@
 module.exports.config = {
   name: "autotime",
   version: "2.0.0",
-  permission: 0,
+  hasPermssion: 0,
   credits: "Nayan",
   description: "সেট করা সময় অনুযায়ী স্বয়ংক্রিয়ভাবে বার্তাগুলি পাঠানো হবে!",
-  prefix: false,
-  category: "auto",
+  usePrefix: false,
+  commandCategory: "auto",
   usages: "",
   cooldowns: 5,
 };

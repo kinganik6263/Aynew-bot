@@ -1,11 +1,11 @@
 module.exports.config = {
   name: "add",
   version: "0.0.2",
-  permission: 0,
-  prefix: true,
+  hasPermssion: 0,
+  usePrefix: true,
   credits: "Nayan",
   description: "",
-  category: "user",
+  commandCategory: "user",
   usages: "",
     cooldowns: 5,
 };
